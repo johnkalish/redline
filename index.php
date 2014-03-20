@@ -2,7 +2,7 @@
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" id="splash" lang="en" style="html{background:url('../img/splashpagebackground.jpg');background-image:url('/..img/splashpagebackground.jpg');} "> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" id="splash" lang="en" > <!--<![endif]-->
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -22,10 +22,10 @@
   <script src="js/libs/modernizr-2.0.6.min.js"></script>
 </head>
 
-<body style:margin-top:0px;padding-top:0px;>
+<body >
    
    
-   <div style="background-image:url('../img/sleepsplashpagescaled2000.png');">
+   <div >
 	   
 	   <div id="main" class="wrapper" style="margin-top:0px;padding-top:0px;">
 		   <div id="sleeprelease" style="margin-top:0px;padding-top:0px;">
@@ -40,8 +40,8 @@
 			<a id="continueBtntrans" href="home.html"></a>
 		   </div>
 		   
-					<img id="cdImage" src="img/sleep_cover3b.jpg" width="500px" alt="Redline's new CD INBOUND sliding out of its case." />
-			   
+				<div class="cdImage">	<img id="cdImage" src="img/sleep_cover3b.jpg"  alt="Redline's new CD INBOUND sliding out of its case." />
+			   </div>
 		   
 		   <!-- FIVE YEAR CONCERT -->
 			   <!--<a href="http://redline5.eventzilla.net/" target="_blank"><img style="margin-top:30px; margin-left:150px;" src="img/Redline 5yr smaller.png" alt="A poster of our 5-year anniversary concert."  /></a>-->

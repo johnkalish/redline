@@ -66,11 +66,7 @@ td { vertical-align: top; }
    Author: Andrew Nalband
    ========================================================================== */
 
-html#splash
-{
-	background-color:#000;
-	background:none;
-}
+
 
 
 html {
@@ -78,6 +74,11 @@ html {
 		
 }
 
+html#splash
+{
+	background:			url('../img/sleepsplashpagescaled2000.png');
+	background-image:	url('../img/sleepsplashpagescaled2000.png');
+}
 .wrapper{
 	margin:				auto;
 	width:				960px;
@@ -261,6 +262,7 @@ a:hover#continueBtntrans {
 #cdImage {
 	margin-top: 		30px;
 	margin-bottom: 		20px;
+	width:500px;
 }
 
 #header-container {
@@ -696,6 +698,27 @@ a:hover#orderHardCopyBtn {
 /* ==|== media queries ====================================================== */
 
 @media only screen and (max-width: 480px) {
+#splashLeftCol
+{
+	float:none;
+	margin:auto;
+}
+.wrapper
+{
+	width:auto;
+}
+
+#cdImage
+{
+	width:300px;
+	margin-left:auto;
+	text-align:center;
+}
+
+div.cdImage
+{
+	text-align:center;
+}
 
 }
 
