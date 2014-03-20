@@ -703,7 +703,7 @@ a:hover#orderHardCopyBtn {
 	float:none;
 	margin:auto;
 }
-.wrapper
+html#splash body div div.wrapper
 {
 	width:auto;
 }
