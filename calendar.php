@@ -44,14 +44,14 @@
    <div id="main" class="wrapper">
    	<img class="title" src="img/shows_title.gif" alt="Title saying: The Guys" />
    	
-	<div class="cushycms" id="showsLeftCol"><span style="font-size: 18px;"><strong>Friday, April 4th 2014</strong><br />
-<span style="font-size: 14px;"><a href="http://symphonynh.org/events/event/spring-sing-with-the-bubs/">Symphony NH Spring Sing</a>&nbsp;with <a href="http://bubs.com">The Tufts&nbsp;Beelzebubs</a> (Manchester, NH)<br />
-7:30 pm<br />
-<br />
-<span style="font-size: 18px;"><strong>Friday, May 9th 2014</strong><br />
-<span style="font-size: 14px;">Private event (Groton, MA)<br />
-<br />
-<span style="font-size: 18px;"><strong>Saturday, August 16th 2014</strong><br />
+	<div class="cushycms" id="showsLeftCol"><span style="font-size: 18px;"><strong>Friday, April 4th 2014</strong><br />
+<span style="font-size: 14px;"><a href="http://symphonynh.org/events/event/spring-sing-with-the-bubs/">Symphony NH Spring Sing</a>&nbsp;with <a href="http://bubs.com">The Tufts&nbsp;Beelzebubs</a> (Manchester, NH)<br />
+7:30 pm<br />
+<br />
+<span style="font-size: 18px;"><strong>Friday, May 9th 2014</strong><br />
+<span style="font-size: 14px;">Private event (Groton, MA)<br />
+<br />
+<span style="font-size: 18px;"><strong>Saturday, August 16th 2014</strong><br />
 <span style="font-size: 14px;">Private event (East Bridgewater, MA)</span></span></span></span></span></span></div>   
 	<span class="cushycms" id="showsRightCol"><img alt="All the group members standing in a circle, slapping and singing" id="shows_image" src="img/shows_image.jpg" /></span>
    </div><!--! end of #main -->
