@@ -1,4 +1,4 @@
-/* HTML5 ✰ Boilerplate
+﻿/* HTML5 ✰ Boilerplate
  * ==|== normalize ==========================================================
  */
 
@@ -13,7 +13,7 @@ body, button, input, select, textarea { font-family: sans-serif; color: #222; }
 
 ::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
 ::selection { background: #fe57a1; color: #fff; text-shadow: none; }
-
+/*foo */
 a { color: #00e; }
 a:visited { color: #551a8b; }
 a:hover { color: #06e; }
